@@ -1,6 +1,6 @@
 # **Sistem Pengelolaan Barang Donasi** 
 ## Anggota Kelompok : 
-- Putri Nailah Azalia Priambodo (I0324097)
+- Putri Nailah Azalia Priyambodo (I0324097)
 - Cut Adra Rizkina (I0324113)
 - Dwi Prastyo (I0324114)
 - Restu Dewi Andinia (I0324135)
